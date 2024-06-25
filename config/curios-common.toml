@@ -1,0 +1,5 @@
+#List of slots to create or modify.
+#See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
+#
+slots = ["id=momento;size=1;order=0;render_toggle=false;icon=kubejs:item/momento/momento_icon", "id=relics_emblem;size=1;order=1;render_toggle=false;icon=kubejs:item/relics/emblem_icon", "id=relics_ring;size=1;order=2;render_toggle=false;icon=kubejs:item/relics/ring_icon", "id=relics_plume;size=1;order=3;render_toggle=false;icon=kubejs:item/relics/plume_icon", "id=relics_orb;size=1;order=4;render_toggle=false;icon=kubejs:item/relics/orb_icon", "id=relics_chain;size=1;order=5;render_toggle=false;icon=kubejs:item/relics/chain_icon", "id=curios;size=6;order=6;render_toggle=false"]
+
